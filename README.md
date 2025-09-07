@@ -9,3 +9,8 @@ Kicad 6 Footprint and Symbol for Waveshare RP2040-Zero
 ![image](https://user-images.githubusercontent.com/6279380/191479123-f4ae474f-4eb5-4e91-8fb2-faf72a9be64b.png)
 
 Pads to solder the castellated edges to. You can add a cutout to get the baord flush to your pcb.
+
+NOTE
+====
+
+Tiny pad under the pcb are not included in the footprint and symbol.
